@@ -1,0 +1,16 @@
+.titre {
+    color: red;
+}
+.soustitre {
+    color: blue;
+}
+.paragraphe {
+    font-weight: bold;
+    background-color: red;
+}
+.souligne {
+    text-decoration: underline;
+}
+li {
+    font-style: italic;
+}
