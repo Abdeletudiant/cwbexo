@@ -22,7 +22,7 @@ section:nth-child(3) h3, section:nth-child(3) ul {
 
 /* EXO 4 */
 /* 4EME SECTION */
-section:nth-child(4) li:nth-child(2)    {
+section:nth-child(4) li:nth-child(2) {
     font-size: 25px;
 }
 
@@ -36,7 +36,7 @@ section:nth-child(5) p~span {
     border-radius: 1px 50% black;
     border: 1px solid black;
 } */
-img[src] {
+section:nth-child(6) img[src] {
     border: 1px solid black;
     border-radius: 50%;
     width: 100px;
