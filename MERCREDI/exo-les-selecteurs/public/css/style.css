@@ -36,7 +36,7 @@ section:nth-child(5) p~span {
     border-radius: 1px 50% black;
     border: 1px solid black;
 } */
-section:nth-child(6) img[src] {
+section:nth-child(6) img[alt="la-tartine"] {
     border: 1px solid black;
     border-radius: 50%;
     width: 100px;
